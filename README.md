@@ -3,6 +3,7 @@
 Bu proje, Ethereum blockchain üzerinde çalışan basit bir Web3 Marketplace DApp'idir. Kullanıcılar, bu uygulama aracılığıyla ürünler oluşturabilir, satın alabilir ve daha sonra yeniden satışa çıkarabilirler. Uygulamanın akıllı sözleşmeleri Solidity ile yazılmış olup, frontend kısmında React kullanılmıştır.
 
 ![web3MarketPlace](https://github.com/user-attachments/assets/9f16713a-4f47-4bee-97b3-580e4fa5d65d)
+[video](https://www.linkedin.com/posts/kivanccoban_blockchain-web3-ethereum-activity-7231584976792653826-DTSG?utm_source=share&utm_medium=member_desktop)
 ## Özellikler
 
 - **Ürün Oluşturma:** Kullanıcılar MetaMask cüzdanını kullanarak yeni ürünler oluşturabilirler.
